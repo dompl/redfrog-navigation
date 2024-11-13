@@ -11,8 +11,5 @@
     "url": "https://github.com/dompl/redfrog-navigation.git"
   },
   "author": "Dom",
-  "license": "MIT",
-  "dependencies": {
-    // Add any dependencies here
-  }
+  "license": "MIT"
 }
